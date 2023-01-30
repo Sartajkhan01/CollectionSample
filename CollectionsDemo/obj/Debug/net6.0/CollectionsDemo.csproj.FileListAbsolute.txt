@@ -1,0 +1,15 @@
+C:\Users\Sartaj khan\source\repos\CollectionsDemo\CollectionsDemo\bin\Debug\net6.0\CollectionsDemo.exe
+C:\Users\Sartaj khan\source\repos\CollectionsDemo\CollectionsDemo\bin\Debug\net6.0\CollectionsDemo.deps.json
+C:\Users\Sartaj khan\source\repos\CollectionsDemo\CollectionsDemo\bin\Debug\net6.0\CollectionsDemo.runtimeconfig.json
+C:\Users\Sartaj khan\source\repos\CollectionsDemo\CollectionsDemo\bin\Debug\net6.0\CollectionsDemo.dll
+C:\Users\Sartaj khan\source\repos\CollectionsDemo\CollectionsDemo\bin\Debug\net6.0\CollectionsDemo.pdb
+C:\Users\Sartaj khan\source\repos\CollectionsDemo\CollectionsDemo\obj\Debug\net6.0\CollectionsDemo.csproj.AssemblyReference.cache
+C:\Users\Sartaj khan\source\repos\CollectionsDemo\CollectionsDemo\obj\Debug\net6.0\CollectionsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sartaj khan\source\repos\CollectionsDemo\CollectionsDemo\obj\Debug\net6.0\CollectionsDemo.AssemblyInfoInputs.cache
+C:\Users\Sartaj khan\source\repos\CollectionsDemo\CollectionsDemo\obj\Debug\net6.0\CollectionsDemo.AssemblyInfo.cs
+C:\Users\Sartaj khan\source\repos\CollectionsDemo\CollectionsDemo\obj\Debug\net6.0\CollectionsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Sartaj khan\source\repos\CollectionsDemo\CollectionsDemo\obj\Debug\net6.0\CollectionsDemo.dll
+C:\Users\Sartaj khan\source\repos\CollectionsDemo\CollectionsDemo\obj\Debug\net6.0\refint\CollectionsDemo.dll
+C:\Users\Sartaj khan\source\repos\CollectionsDemo\CollectionsDemo\obj\Debug\net6.0\CollectionsDemo.pdb
+C:\Users\Sartaj khan\source\repos\CollectionsDemo\CollectionsDemo\obj\Debug\net6.0\CollectionsDemo.genruntimeconfig.cache
+C:\Users\Sartaj khan\source\repos\CollectionsDemo\CollectionsDemo\obj\Debug\net6.0\ref\CollectionsDemo.dll
